@@ -1,0 +1,4 @@
+
+Average popularity: 33.24
+Max popularity: 100
+Min popularity: 0
